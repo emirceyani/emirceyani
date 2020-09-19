@@ -11,17 +11,16 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Short intro:**
 
-I am a PhD student interested in deep learning \& machine learning theory , federated learning, Bayesian neural networks and AutoML under the leadership of Prof. Salman Avestimehr at University of Southern California. During my Msc., I was a research engineer at Turkcell Technologies, Istanbul,🇹🇷.   My main expertise has revolved around convolutional neural networks and their hardware acceleration applied to computer vision tasks. 
+I am going to be a PhD student working on deep learning \& machine learning theory and federated learning under the supervision of Prof. Salman Avestimehr at University of Southern California (If COVID19 permits...). During my Msc., I was a research engineer at Turkcell Technologies, Istanbul,🇹🇷 working on Deep Bayesian models for spatiotemporal forecasting under uncertainty. My main expertise has revolved around variational generative models and graph convolutional networks. 
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="30%" align="right" alt="Github" src="https://ceyani.io/author/emir-ceyani/avatar_hue92774dbe360d8f4714995c1e1cb09f0_64701_270x270_fill_q90_lanczos_center.jpg" />
 
-- 👨🏽‍💻 I’m currently working on my PhD to develop an information theoretic approaches for transfer learning ;
-- 🌱 I’m currently learning about PyTorch and how to play an ukulele; 
-- 👯 I’m looking to collaborate on research ideas 🤝 and I am always looking for internships;
-- 🤔 I’m looking for help with n;
-- 💬 Ask me about , I am happy to help;
-📫 How to reach me: ceyani.io;
+- 👨🏽‍💻 I’m currently working on my PhD to develop information theoretic approaches for transfer & federated learning + Writing an M.S. thesis and it really is a pain 🤦 ;
+- 🌱 I’m currently learning about causal inference and stochastic differential equations; 
+- 👯 Collaboration is fun so I’m looking to collaborate on research ideas 🤝 and I am always looking for internships;
+- 🤔 I’m looking for help with finding a concise material to learn stochastic differential equations;
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: ceyani@usc.edu;
 
 **Languages and Tools:** 
