@@ -46,4 +46,4 @@ You can use this api: https://github.com/emirceyani/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
-**Acknowledgement:**: Inspired from a dear friend ,[Martin](https://github.com/martinferianc/martinferianc)
+**Acknowledgement:**: Inspired from a dear friend, [Martin](https://github.com/martinferianc/martinferianc)
