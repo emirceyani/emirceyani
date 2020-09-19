@@ -20,7 +20,7 @@ I am going to be a PhD student working on deep learning \& machine learning theo
 - 🌱 I’m currently learning about causal inference and stochastic differential equations; 
 - 👯 Collaboration is fun so I’m looking to collaborate on research ideas 🤝 and I am always looking for internships;
 - 🤔 I’m looking for help with finding a concise material to learn stochastic differential equations;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 I am an avid fan of [CrossValidated](https://stats.stackexchange.com/users/280640/emir-ceyani) and you can ask me about anything, I am happy to help;
 - 📫 How to reach me: ceyani@usc.edu;
 
 **Languages and Tools:** 
