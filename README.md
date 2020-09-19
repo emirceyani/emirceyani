@@ -16,7 +16,7 @@ I am going to be a PhD student working on deep learning \& machine learning theo
 <!-- Any image aligned to the right. Beware the width -->
 <img width="30%" align="right" alt="Github" src="https://ceyani.io/author/emir-ceyani/avatar_hue92774dbe360d8f4714995c1e1cb09f0_64701_270x270_fill_q90_lanczos_center.jpg" />
 
-- 👨🏽‍💻 I’m currently working on my PhD to develop information theoretic approaches for transfer & federated learning + Writing an M.S. thesis and it really is a pain 🤦 ;
+- 👨🏽‍💻 I’m currently working on my PhD to develop information theoretic approaches for transfer & federated learning;
 - 🌱 I’m currently learning about causal inference and stochastic differential equations; 
 - 👯 Collaboration is fun so I’m looking to collaborate on research ideas 🤝 and I am always looking for internships;
 - 🤔 I’m looking for help with finding a concise material to learn stochastic differential equations;
