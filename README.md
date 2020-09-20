@@ -13,8 +13,6 @@ You can use the website to generate badges: https://shields.io/
 
 I am going to be a PhD student working on deep learning \& machine learning theory and federated learning under the supervision of [Prof. Salman Avestimehr](https://www.avestimehr.com/) at the University of Southern California (If COVID19 permits...). During my Msc., I was a research engineer at Turkcell Technologies, Istanbul,🇹🇷 working on Deep Bayesian models for spatiotemporal forecasting under uncertainty. My main expertise has revolved around variational generative models and graph convolutional networks. 
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="30%" align="right" alt="Github" src="https://ceyani.io/author/emir-ceyani/avatar_hue92774dbe360d8f4714995c1e1cb09f0_64701_270x270_fill_q90_lanczos_center.jpg" />
 
 - 👨🏽‍💻 I’m currently working on my PhD to develop information theoretic approaches for transfer & federated learning while writing M.Sc. thesis. Yes, a  special COVID case and writing a thesis is really a pain 🤦;
 - 🌱 I’m currently learning about causal inference and stochastic differential equations; 
@@ -29,7 +27,7 @@ I am going to be a PhD student working on deep learning \& machine learning theo
 You can use this api: https://github.com/emirceyani/github-readme-stats
 -->
 <p>
-  <a href="https://github-readme-stats.vercel.app/api?username=martinferianc&show_icons=true">
+  <a href="https://github-readme-stats.vercel.app/api?username=emirceyani&show_icons=true">
     <img width="35%" align="right" alt="Emir's github stats" src="https://github-readme-stats.vercel.app/api?username=emirceyani&show_icons=true&hide_border=true" />
   </a>
 
