@@ -6,20 +6,15 @@ You can use the website to generate badges: https://shields.io/
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FEmirCeyani)](https://twitter.com/ceyani_emir)
 
 <!-- Talking about you -->
-Short intro:
-
-I am a PhD student interested in deep learning \& machine learning theory , federated learning, Bayesian neural networks and AutoML under the leadership of [Prof. Salman Avestimehr](https://www.avestimehr.com/) at University of Southern California. I also am an active contributor to [FedML library](https://fedml.ai/). During my Msc., I was a research engineer at Turkcell Technologies, Istanbul,🇹🇷.   
+I am a PhD student interested in deep learning , machine learning theory, federated learning, and Bayesian neural networks  under the leadership of [Prof. Salman Avestimehr](https://www.avestimehr.com/) at University of Southern California(USC). I also am an active contributor to [FedML library](https://fedml.ai/). During my Msc. at Bilkent University, I was a research engineer at Turkcell Technologies, Istanbul,🇹🇷.   
 
 My main expertise has revolved around :
-- Federated learning
-- Graph neural networks 
-- Bayesian deep learning
-- Probabilistic deep generative models(VAE, NF,...) & variational inference methods 
-- Spatio-temporal forecasting with deep learning 
+1) Federated learning
+2) Graph neural networks 
+3) Bayesian deep learning
+4) Probabilistic deep generative models(VAE, NF,...) & variational inference methods 
+5) Spatio-temporal forecasting with deep learning 
 
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="30%" align="right" alt="Github" src="https://ceyani.io/author/emir-ceyani/avatar_hue92774dbe360d8f4714995c1e1cb09f0_64701_270x270_fill_q90_lanczos_center.jpg" />
 
 - 👨🏽‍💻 I’m currently working on my PhD on federated machine/deep learning ;
 - 🌱 I’m currently learning meta learning, neural architecture search, and personalisation algortihms; 
