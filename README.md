@@ -1,4 +1,4 @@
-## Hello everyone, I'm Emir Ceyani, an aspiring machine learning researcher and a PhD student from Los Angeles, CA 🇺🇸.
+## Hi, I'm Emir Ceyani, an aspiring machine learning researcher and a PhD student from Los Angeles, CA 🇺🇸.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
