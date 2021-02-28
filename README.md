@@ -17,7 +17,7 @@ My main expertise has revolved around :
 
 
 - 👨🏽‍💻 I’m currently working on my PhD on federated machine/deep learning ;
-- 🌱 I’m currently learning meta learning, neural architecture search, and personalisation algortihms; 
+- 🌱 I’m currently learning meta learning, Bayesian non-parametrics, neural architecture search, and personalisation algortihms; 
 - 👯 I’m looking to collaborate on research ideas 🤝 and I am always looking for research internships;
 - 📫 How to reach me: ceyani@usc.edu;
 
