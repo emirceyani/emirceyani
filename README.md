@@ -6,7 +6,7 @@ You can use the website to generate badges: https://shields.io/
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FEmirCeyani)](https://twitter.com/ceyani_emir)
 
 <!-- Talking about you -->
-I am a PhD student interested in deep learning , machine learning theory, federated learning, and Bayesian neural networks  under the leadership of [Prof. Salman Avestimehr](https://www.avestimehr.com/) at University of Southern California(USC). I also am an active contributor to [FedML library](https://fedml.ai/). During my Msc. at Bilkent University, I was a research engineer at Turkcell Technologies, Istanbul,🇹🇷.   
+I am a Ph.D. student interested in deep learning , machine learning theory, federated learning, and Bayesian neural networks  under the leadership of [Prof. Salman Avestimehr](https://www.avestimehr.com/) at University of Southern California(USC). I also am an active contributor to [FedML library](https://fedml.ai/). During my M.Sc. at Bilkent University, I was a research engineer at Turkcell Technologies, Istanbul,🇹🇷.   
 
 My main expertise has revolved around :
 1) Federated learning
